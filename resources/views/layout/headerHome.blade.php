@@ -12,7 +12,6 @@
     width: 20px;
 }
 </style>
-{{-- Dòng thêm test --}}
 <div class="container">
         <div class="row">
             <div class="col-sm-2">
