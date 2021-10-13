@@ -11,6 +11,7 @@
                                 </span>
                 </div>
                 <!-- /input-group -->
+                {{-- Sửa thêm dòng nữa --}}
             </li>
             <li>
                 <a href="{{route('page-admin')}}" class="active"><i class="fa fa-dashboard fa-fw"></i> Bảng điều khiển</a>
